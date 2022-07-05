@@ -1,0 +1,16 @@
+.modal {
+    display: block !important;
+    overflow-y: hidden;
+}
+
+.modal-content {
+    height: auto;
+}
+
+.modal-header-container {
+    background-color: #28bbbb !important;
+}
+
+.modal-header-container h5 {
+    color: #ffffff !important;
+}

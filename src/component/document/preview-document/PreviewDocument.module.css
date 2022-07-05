@@ -1,0 +1,30 @@
+.modal {
+    display: block !important;
+    overflow-y: hidden;
+}
+
+.modal-content {
+    max-height: 90vh !important;
+}
+
+.modal-header-container {
+    background-color: #28bbbb !important;
+}
+
+.modal-header-container h5 {
+    color: #ffffff !important;
+}
+
+.btn-default {
+    border-color: #28bbbb !important;
+    background-color: #28bbbb !important;
+    opacity: 0.8;
+}
+
+.btn-default:hover {
+    opacity: 1;
+}
+
+.border-radius-0 {
+    border-radius: 0 !important;
+}
